@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "Peyda";
+	src: url("../../../assets/fonts/PeydaWeb-Regular.woff") format("woff");
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: "Peyda";
+	src: url("../../../assets/fonts/PeydaWeb-Medium.woff") format("woff");
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: "Peyda";
+	src: url("../../../assets/fonts/PeydaWeb-Bold.woff") format("woff");
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "Peyda";
+	src: url("../../../assets/fonts/PeydaWeb-Black.woff") format("woff");
+	font-weight: 900;
+}
+
+.main {
+	font-family: "Peyda";
+}
