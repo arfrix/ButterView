@@ -1,6 +1,6 @@
 import React from "react";
 import Text from "../../components/text/Text";
-import styles from "./Answer.module.css";
+import styles from "./AnswerPreviewCard.module.css";
 
 export default function Answer() {
 	return (

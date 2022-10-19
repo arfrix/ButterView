@@ -1,5 +1,5 @@
 import React from "react";
-import Answer from "../answer/Answer";
+import Answer from "../answer/AnswerPreviewCard";
 
 export default function Feed() {
 	return (
